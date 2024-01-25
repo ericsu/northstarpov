@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>North_Star_POV</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>North_Star_POV__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>North Star POV Dashboards/fCPJSdzeEpYvspjQCPMHDiRxldyRaS</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>North Star POV Reports/North_Star_POV_Report_LYl</members>
+        <members>North Star POV Reports/North_Star_POVs_by_Stage_G3p</members>
+        <members>North Star POV Reports/North_Star_POVs_by_Date</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>Flow_Redirect</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>North_Star_POV_Flow</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>North_Star_POV_Record_Page</members>
+        <members>North_Star_POV_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>North_Star_POV__c-Account POV Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>North_Star_POV__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>North_Star_POV</members>
+        <name>PathAssistant</name>
+    </types>
+    <types>
+        <members>northstar2</members>
+        <name>ContentAsset</name>
+    </types>
+</Package>

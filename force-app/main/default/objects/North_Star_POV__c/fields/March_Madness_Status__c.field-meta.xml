@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>March_Madness_Status__c</fullName>
+    <externalId>false</externalId>
+    <label>March Madness Status</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Pending</fullName>
+                <default>true</default>
+                <label>Pending</label>
+            </value>
+            <value>
+                <fullName>Completed</fullName>
+                <default>false</default>
+                <label>Completed</label>
+            </value>
+            <value>
+                <fullName>RVP Winner</fullName>
+                <default>false</default>
+                <label>RVP Winner</label>
+            </value>
+            <value>
+                <fullName>AVP Winner</fullName>
+                <default>false</default>
+                <label>AVP Winner</label>
+            </value>
+            <value>
+                <fullName>SVP Winner</fullName>
+                <default>false</default>
+                <label>SVP Winner</label>
+            </value>
+            <value>
+                <fullName>AI Winner</fullName>
+                <default>false</default>
+                <label>AI Winner</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

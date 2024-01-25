@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Why_Salesforce__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Description for why Salesforce is the best solution to help this company achieve the strategic objectives.</inlineHelpText>
+    <label>Why Salesforce</label>
+    <length>32768</length>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

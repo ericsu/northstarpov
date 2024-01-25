@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathAssistant xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <entityName>North_Star_POV__c</entityName>
+    <fieldName>POV_Stage__c</fieldName>
+    <masterLabel>North Star POV</masterLabel>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;Mark this stage complete after presenting your POV to the customer.  Congrats!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;For questions or feedback, join &lt;a href=&quot;https://slack.com/archives/C06DATQPXU6&quot; target=&quot;_blank&quot;&gt;#fast-start-north-star-pov-fy25&lt;/a&gt; in Slack.&lt;/p&gt;</info>
+        <picklistValueName>Customer Exec Approved</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;To prepare for the North Star POV delivery, refer to the:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://salesforce.enterprise.slack.com/docs/T0257US1S/F06BB7CF5DJ?focus_section_id=temp:C:TDF304e632d01924545b80b8d4ff&quot; target=&quot;_blank&quot;&gt;Operational Checklist&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</info>
+        <picklistValueName>Dry Run</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <fieldNames>Business_Name__c</fieldNames>
+        <fieldNames>Account_Name__c</fieldNames>
+        <fieldNames>Account_Owner__c</fieldNames>
+        <fieldNames>Core_SE__c</fieldNames>
+        <info>&lt;p&gt;To begin planning the North Star POV workshop:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reach out to your assigned AE or AD to select the account.&lt;/li&gt;&lt;li&gt;Schedule your workshop.&lt;/li&gt;&lt;li&gt;Verify details about this North Star POV and the associated account. &lt;/li&gt;&lt;li&gt;When scheduling, use the &lt;a href=&quot;https://salesforce.enterprise.slack.com/docs/T0257US1S/F06DH3YFTKL&quot; target=&quot;_blank&quot;&gt;Workshop Meeting Details Canvas&lt;/a&gt; for calendar templates. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Remember to refer to the &lt;a href=&quot;https://salesforce.enterprise.slack.com/docs/T0257US1S/F06BB7CF5DJ?focus_section_id=temp:C:TDF304e632d01924545b80b8d4ff&quot; target=&quot;_blank&quot;&gt;Operational Checklist&lt;/a&gt; for more details. &lt;/p&gt;</info>
+        <picklistValueName>New</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;Schedule 1 hour internal meeting with Account 360 team to align product with funded strategic objectives using &lt;a href=&quot;https://salesforce.quip.com/HbODA1mu4tCT&quot; target=&quot;_blank&quot;&gt;Pipeline Activation Template&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Refer to the &lt;a href=&quot;https://salesforce.enterprise.slack.com/docs/T0257US1S/F06BB7CF5DJ?focus_section_id=temp:C:TDF304e632d01924545b80b8d4ff&quot; target=&quot;_blank&quot;&gt;Operational Checklist&lt;/a&gt; for additional details.&lt;/p&gt;</info>
+        <picklistValueName>Pipeline Activation</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <fieldNames>POV_Link__c</fieldNames>
+        <info>&lt;p&gt;To build the POV presentation:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Refer to the &lt;a href=&quot;https://salesforce.enterprise.slack.com/docs/T0257US1S/F06BB7CF5DJ?focus_section_id=temp:C:TDF304e632d01924545b80b8d4ff&quot; target=&quot;_blank&quot;&gt;Operational Checklist&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;Use &lt;a href=&quot;https://docs.google.com/presentation/d/1VXqeCe-WBObs9i0y5lVx1UhnrArvgGyn-_LHgZyKCl8/edit#slide=id.p&quot; target=&quot;_blank&quot;&gt;North Star POV template&lt;/a&gt;. Leverage details in Miro board and the GenAI app.&lt;/li&gt;&lt;li&gt;Reference &lt;a href=&quot;https://salesforce.enterprise.slack.com/docs/T01G0063H29/F067FQ76Y5R&quot; target=&quot;_blank&quot;&gt;Gold Standard Asset Library &lt;/a&gt;of completed POVs for inspiration.&lt;/li&gt;&lt;li&gt;Tips &amp;amp; Tricks for &lt;a href=&quot;https://docs.google.com/presentation/d/1mG52XpgZcDz5lUr9wwk6Vow1JCnHrGBOrqQB2XP7Nf4/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;Google Slides&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</info>
+        <picklistValueName>Presentation Design</picklistValueName>
+    </pathAssistantSteps>
+    <pathAssistantSteps>
+        <info>&lt;p&gt;To prepare for the workshop, refer to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://salesforce.enterprise.slack.com/docs/T0257US1S/F06BB7CF5DJ?focus_section_id=temp:C:TDF304e632d01924545b80b8d4ff&quot; target=&quot;_blank&quot;&gt;Operational Checklist&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Roughly 1 week prior to the workshop, we recommend setting up a 1 hr planning meeting with your AE and any co-facilitor(s) to fill out the:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://salesforce.enterprise.slack.com/docs/T0257US1S/F06DKJD98FN&quot; target=&quot;_blank&quot;&gt;Account Research Checklist&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Create the &lt;a href=&quot;https://miro.com/app/dashboard/?tpTemplate=uXjVN92TAdM%3D&amp;amp;isCustom=true&amp;amp;share_link_id=48008521885&quot; target=&quot;_blank&quot;&gt;Miro Board&lt;/a&gt; and fill it out with some of your research and the 3 strategic objectives.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</info>
+        <picklistValueName>Workshop Scheduled</picklistValueName>
+    </pathAssistantSteps>
+    <recordTypeName>__MASTER__</recordTypeName>
+</PathAssistant>
