@@ -19,10 +19,6 @@
         <name>Report</name>
     </types>
     <types>
-        <members>Flow_Redirect</members>
-        <name>AuraDefinitionBundle</name>
-    </types>
-    <types>
         <members>North_Star_POV_Flow</members>
         <name>Flow</name>
     </types>
